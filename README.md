@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Haya!
 
-<!--
-**lakhani-haya/lakhani-haya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a data enthusiast exploring the intersection of machine learning, analytics, and real-world impact.  
+I love reading, baking, watching sports, and solving sudoku puzzles!
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages & Scripting**  
+Python (Pandas, Prophet) · SQL · R · VBA · C# · PHP · HTML/CSS · JavaScript
+
+**Data & Analytics**  
+Power BI (DAX) · Tableau · SPSS · Excel · Data Cleaning · ETL
+
+**Databases & Tools**  
+MySQL · PostgreSQL · SSMS · MongoDB · MS Access · Data Dictionaries
+
+**Automation & Scripting**  
+Power Automate · UiPath · Web Scraping (BeautifulSoup)
+
+**Machine Learning & AI**  
+scikit-learn · XGBoost · Hugging Face Transformers
+
+**Networking & Security**  
+Wireshark · Cisco Packet Tracer · VLANs · Static Routing · Subnetting · Network Simulation · ISC2 CC (in progress)
+
+**Platforms & Cloud**  
+Microsoft Azure · AWS · SAP · Salesforce · GitHub · Power Apps · Jupyter
+
+**Other Tools**  
+Lucidchart · VS Code · Microsoft Office Suite
+
+### 📫 Let's Connect
+
+📧 Email: [hy.lakhanii@gmail.com](mailto:hy.lakhanii@gmail.com)  
+🌐 Website: [lakhani-haya.github.io](https://lakhani-haya.github.io)  
+💼 LinkedIn: [linkedin.com/in/haya-lakhani](https://www.linkedin.com/in/haya-lakhani/)
