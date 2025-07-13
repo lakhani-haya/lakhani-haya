@@ -15,7 +15,7 @@ Power BI (DAX) · Tableau · SPSS · Excel · Data Cleaning · ETL
 MySQL · PostgreSQL · SSMS · MongoDB · MS Access · Data Dictionaries
 
 **Automation & Scripting**  
-Power Automate · UiPath · Web Scraping (BeautifulSoup)
+Power Automate · UiPath · Web Scraping
 
 **Machine Learning & AI**  
 scikit-learn · XGBoost · Hugging Face Transformers
