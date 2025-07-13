@@ -21,7 +21,7 @@ Power Automate · UiPath · Web Scraping (BeautifulSoup)
 scikit-learn · XGBoost · Hugging Face Transformers
 
 **Networking & Security**  
-Wireshark · Cisco Packet Tracer · VLANs · Static Routing · Subnetting · Network Simulation · ISC2 CC (in progress)
+Wireshark · Cisco Packet Tracer · VLANs · Static Routing · Subnetting · Network Simulation · ISC2 CC
 
 **Platforms & Cloud**  
 Microsoft Azure · AWS · SAP · Salesforce · GitHub · Power Apps · Jupyter
