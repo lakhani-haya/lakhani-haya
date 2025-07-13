@@ -1,4 +1,4 @@
-# Hi, I'm Haya!
+# Hello, I'm Haya!
 
 I'm a data enthusiast exploring the intersection of machine learning, analytics, and real-world impact.  
 I love reading, baking, watching sports, and solving sudoku puzzles!
