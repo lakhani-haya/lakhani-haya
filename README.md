@@ -1,10 +1,10 @@
-# 👋 Hello, I'm Haya!
+# Hello, I'm Haya!
 
 I'm a data and AI enthusiast passionate about creating intelligent, human-centered solutions that connect analytics with real-world impact.  
 My recent projects explore how data systems, automation, and AI can simplify everyday tasks and decision-making.  
 Outside of all this, I love reading, baking, watching sports, and solving sudoku puzzles!
 
----
+
 
 ### 🛠️ Tech Stack
 
@@ -32,7 +32,7 @@ Microsoft Azure · AWS · SAP · Salesforce · Power Apps · Jupyter
 **Other Tools**  
 Lucidchart · VS Code · Microsoft Office Suite
 
----
+
 
 ### 📫 Let's Connect
 
