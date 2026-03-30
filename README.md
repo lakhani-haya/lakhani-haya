@@ -6,7 +6,7 @@ Outside of all this, I love reading, baking, watching sports, and solving sudoku
 
 
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Languages & Scripting**  
 Python (Pandas, NumPy, Prophet) · SQL · R · TypeScript · JavaScript (ES6+) · C# · HTML/CSS · VBA
